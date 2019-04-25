@@ -15,7 +15,9 @@
     tipo: 1 = vermelho , 0 = azul
         
 ```
+# Objetivo:
+Treinar nosso algoritmo para detectar a cor da flor, tendo dois inputs: a largura e altura
 
 # Créditos:
 
-* A playlist [Beginner Introduction to Neural Networks](https://www.youtube.com/playlist?list=PLxt59R_fWVzT9bDxA76AHm3ig0Gg9S3So) onde foi ensinado todos os conceitos de ML e como aplica-los
+* A playlist [Beginner Introduction to Neural Networks](https://www.youtube.com/playlist?list=PLxt59R_fWVzT9bDxA76AHm3ig0Gg9S3So) onde aprendi os conceitos de ML e como aplica-los
